@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1><center>Gabriela Marculino</center></h1>
+<h3>Computer Science student at Universidade Estadual do Mato Grosso do Sul</h3>
 
-<!--
-**GabrielaMarculino/GabrielaMarculino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>🚀 "A vontade de aprender e estudar novas tecnologias é algo que instintivamente nos faz melhores no que fazemos, pois com isso nos é dada a impressão de que vamos mudar o mundo." - Filho, Jose C. S. 📖</h4>
 
-Here are some ideas to get you started:
+<br/>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=josefilho&show_icons=true&theme=dracula&count_private=true" alt="josefilho" />
+  </a>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style={flex-direction: row}>
+ 
+</div>
