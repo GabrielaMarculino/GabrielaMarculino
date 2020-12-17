@@ -1,5 +1,5 @@
 # Gabriela Marculino, 19
-<h3>Computer Science - UEMS :flag_br:</h3>
+<h3>Computer Science - UEMS 🇧🇷</h3>
 
 <h4>🚀 "A vontade de aprender e estudar novas tecnologias é algo que instintivamente nos faz melhores no que fazemos, pois com isso nos é dada a impressão de que vamos mudar o mundo." - Filho, Jose C. S. 📖</h4>
 
