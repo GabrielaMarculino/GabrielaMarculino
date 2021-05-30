@@ -4,6 +4,7 @@
 <br/>
   <a>
     <img align= "center" src="https://github-readme-stats.vercel.app/api?username=GabrielaMarculino&show_icons=true&theme=dracula&count_private=true" alt="GabrielaMarculino" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaMarculino&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 <br/>
 
