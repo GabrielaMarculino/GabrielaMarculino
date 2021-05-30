@@ -11,7 +11,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/gabriela-marculino-297493164/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabrielamarculino@gmail.com)](mailto:gabrielamarculino@gmail.com)
 <a href="https://instagram.com/gabriela.cpp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<img align="right" alt="marculino" src="https://tenor.com/byeym.gif">
+<div class="tenor-gif-embed" data-postid="20513084" data-share-method="host" data-width="100%" data-aspect-ratio="1.324468085106383"><a href="https://tenor.com/view/shinji-ikari-smile-neon-genesis-evangelion-nge-gif-20513084">Shinji Ikari Smile GIF</a> from <a href="https://tenor.com/search/shinjiikari-gifs">Shinjiikari GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
