@@ -13,7 +13,7 @@
 <a href="https://instagram.com/gabriela.cpp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriela-marculino-297493164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto: gabrielamarculino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <img height="250px" width="450px" align="top left" alt="gabi" src=https://cdn.discordapp.com/attachments/372891673040125954/904946452885803018/Mine_Imagines__PEDIDOS_FECHADOS__-_Killua_Zoldyck_-_Hunter_X_Hunter.gif>
+  <img height="250px" width="450px" align="right" alt="gabi" src=https://cdn.discordapp.com/attachments/372891673040125954/904946452885803018/Mine_Imagines__PEDIDOS_FECHADOS__-_Killua_Zoldyck_-_Hunter_X_Hunter.gif>
  
  ##
    
