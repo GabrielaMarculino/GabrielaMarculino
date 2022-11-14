@@ -1,4 +1,4 @@
-# Gabriela Marculino, 20 💻
+# Gabriela Marculino, 21 💻
 <h3>Computer Science - UEMS/BR 📌</h3>
 
  <div>
