@@ -1,5 +1,5 @@
 # Gabriela Marculino, 21 💻
-<h3>Computer Science - UEMS/BR 📌</h3>
+<h3>compsci - uems/br 📌</h3>
 
  <div>
   <a href="https://github.com/GabrielaMarculino">
