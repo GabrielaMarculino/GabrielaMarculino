@@ -16,7 +16,6 @@
  
  
  ##
-   
-
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/knightcapivara/knightcapivara/output/github-contribution-grid-snake.svg">
 
   
