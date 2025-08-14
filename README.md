@@ -6,14 +6,6 @@
 
 ---
 
-## 🚀 About Me
-- 🎯 23 years old and in love with coding and problem-solving  
-- 📈 Interested in **data-driven decision making** and **AI applications**  
-- 💻 Skilled in Python, C++, and SQL, with growing expertise in data analytics and visualization  
-- 🌱 Currently learning: Deep Learning, Cloud Computing for Data Science, and MLOps
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:**  
@@ -38,14 +30,24 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
 ---
 
 ## 📊 GitHub Stats
+
+### 📌 Profile Summary
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielaMarculino&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+### 📌 Languages & Stats
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielaMarculino&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielaMarculino&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+### 📌 Commit Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=GabrielaMarculino&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+### 📌 Activity Graph
+[![Gabriela's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielaMarculino&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ## 📫 Connect with Me
 <a href="https://instagram.com/gabriela.cpp" target="_blank">
