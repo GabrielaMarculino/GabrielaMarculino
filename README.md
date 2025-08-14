@@ -42,14 +42,10 @@
 ---
 
 ## 📊 GitHub Stats
-<div>
-  <a href="https://github.com/GabrielaMarculino">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielaMarculino&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaMarculino&layout=compact&langs_count=8&theme=midnight-purple"/>
-  </a>
-</div>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielaMarculino&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielaMarculino&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielaMarculino&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
----
 
 ## 📫 Connect with Me
 <a href="https://instagram.com/gabriela.cpp" target="_blank">
