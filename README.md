@@ -59,6 +59,10 @@
 <a href="mailto:gabrielamarculino@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="http://lattes.cnpq.br/4241732961026968" target="_blank">
+  <img src="https://img.shields.io/badge/-Lattes-%231877B5?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
+
 
 ---
 
